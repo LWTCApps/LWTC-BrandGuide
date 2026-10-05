@@ -1,0 +1,17 @@
+:root{
+  --lwtc-surface: #FFFFFF;
+  --lwtc-ink: #231F20;
+  --lwtc-muted: #5C5658;
+  --lwtc-orange: #F37026;
+  --lwtc-orange-start: #F58220;
+  --lwtc-orange-end: #F05A2B;
+  --lwtc-green: #92B547;
+  --lwtc-green-start: #BDD14F;
+  --lwtc-green-end: #6EA141;
+  --lwtc-gold: #FBB14A;
+  --lwtc-gold-start: #FFC45A;
+  --lwtc-gold-end: #F9A03C;
+  --lwtc-blue: #4691A9;
+  --lwtc-blue-start: #54ADC3;
+  --lwtc-blue-end: #3A7B96;
+}
